@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.list-item {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.event-img {
+  height: 150px;
+}
+
+.select-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.name {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+.location {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 16px;
+  margin-bottom: 4px;
+  margin-top: 5px;
+}

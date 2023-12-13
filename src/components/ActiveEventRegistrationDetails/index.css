@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.yetToRememberImg {
+  height: 300px;
+}
+
+.registeredImg {
+  height: 100px;
+}
+
+.closedRegistrationsImg {
+  height: 350px;
+}
+
+.card {
+  background-color: #f8fafc;
+  padding: 20px;
+  min-height: 100vh;
+  max-height: fit-content;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  text-align: center;
+}
+
+.yetToRememberImg-para {
+  color: #475569;
+  font-weight: 500;
+}
+
+.register-btn {
+  background-color: #0967d2;
+  border-radius: 10px;
+  color: #f8fafc;
+  height: 40px;
+  width: 130px;
+  border: none;
+}
+
+.already-registered {
+  font-size: 25px;
+  color: #3a4b63;
+}
+
+.closed-title {
+  color: #323f4b;
+}
+
+.closed-para {
+  color: #64748b;
+}
